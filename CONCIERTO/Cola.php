@@ -24,7 +24,7 @@ class Cola {
 $filaBoletas = new Cola();
 
 // Agregamos algunas personas a la fila para comprar boletas
-$filaBoletas->enqueue("Persona 1: Sara");
+$filaBoletas->enqueue("Persona 1: Felipe");
 $filaBoletas->enqueue("Persona 2: Andrea");
 $filaBoletas->enqueue("Persona 3: Mateo");
 
